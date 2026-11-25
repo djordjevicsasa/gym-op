@@ -1,0 +1,8 @@
+sasa1c|1234567|sasa|djordjevic|clan|neaktivan||2025-04-17|2025-07-30|2025-08-29
+sasa2c|1234567|marko|markovic|clan|neaktivan||2025-04-17|2025-07-30|2025-08-29
+sasa3c|1234567|luka|markovic|clan|neaktivan||2025-04-17|2025-07-28|2025-08-27
+sasa4c|1234567|luka|djordjevic|clan|neaktivan||2025-04-17|2025-05-23|2025-06-22
+sasa1i|1234567|mika|djordjevic|instruktor|aktivan|standardni|2025-04-17|2025-04-17|
+sasa2i|1234567|tanja|djordjevic|instruktor|aktivan|standardni|2025-04-17|2025-04-17|
+sasa3i|1234567|sandra|markovic|instruktor|aktivan|premium|2025-04-17|2025-04-17|
+sasa1a|admin123|vladica|markovic|administrator|aktivan||2025-04-17|2025-04-17|
