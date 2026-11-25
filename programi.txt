@@ -1,0 +1,3 @@
+push pull|snaga|40|sasa1i, sasa2i|lako|standardni
+bench|snaga|50|sasa1i, sasa2i, sasa3i|srednje|standardni
+hiit|cardio|40|sasa2i|tesko|premium
