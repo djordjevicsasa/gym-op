@@ -1,0 +1,6 @@
+1111|s1|10:00|11:00|ponedeljak|push pull
+2222|s1|11:00|12:00|sreda|push pull
+3333|s1|12:00|13:00|petak|push pull
+4444|s2|13:00|14:00|utorak, cetvrtak|bench
+5555|s2|14:00|15:00|cetvrtak, nedelja|bench
+6666|s2|15:00|16:00|sreda, petak, nedelja|hiit
